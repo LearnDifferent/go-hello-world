@@ -33,4 +33,4 @@ mkdir -p bin pkg src
 
 ## Hello World
 
-[main.go](./main.go)
+[main.go](./main/main.go)
