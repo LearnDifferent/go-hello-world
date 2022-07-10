@@ -1,0 +1,1 @@
+Array 是在 Stack 上的固定内存空间。Slice 是在 Heap 上可以不断分配的内存空间。
